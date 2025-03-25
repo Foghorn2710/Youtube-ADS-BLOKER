@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Ad Blocker",
+  "version": "1.0",
+  "description": "A simple YouTube ad blocker extension",
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "icons": {
+    "48": "icon48.png"
+  }
+} 

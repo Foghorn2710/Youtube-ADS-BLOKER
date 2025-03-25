@@ -1,0 +1,1 @@
+const extensionId = chrome.runtime.id; 
