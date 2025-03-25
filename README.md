@@ -1,5 +1,7 @@
 # YouTube Ad Blocker Chrome Extension
 
+Create a "newfile" and download myfiles and Extract the files in "NEWFILES"
+
 A simple Chrome extension that blocks ads on YouTube.
 
 ## Features
